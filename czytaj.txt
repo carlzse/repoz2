@@ -1,2 +1,3 @@
 NWTA
 Linia 2 w pliku CZYTAJ.TXT, repoz2
+Linia 2 w pliku czytaj.txt, Kacper Zabiegała
