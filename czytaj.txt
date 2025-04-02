@@ -1,1 +1,2 @@
 NWTA
+Linia 2 w pliku CZYTAJ.TXT, repoz2
